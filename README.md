@@ -1,0 +1,2 @@
+# postgresdbinfo
+POSTgres DB details
